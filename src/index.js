@@ -11,7 +11,7 @@ import testStore from './stores/testStore';
 
 // import styles
 import './css/reset.css';
-import './css/bootstrap/css/bootstrap.min.css';
+import './css/bootstrap/css/bootstrap-simplex.css';
 import './css/index.css';
 
 const FRS = () => {
